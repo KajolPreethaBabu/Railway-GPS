@@ -5,3 +5,6 @@ Requirements:
   ->Microcontroller
   ->Cloud Storage
   
+  Desgin:
+  
+  
