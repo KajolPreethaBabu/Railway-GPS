@@ -6,3 +6,4 @@ Requirements:
   ->Cloud Storage
   
 Update readme
+Design:
